@@ -1,1 +1,1 @@
-Audio Playback Connector in Rust CLI
+Audio Playback Connector (Bluetooth) in Rust CLI
